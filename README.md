@@ -11,6 +11,9 @@ As a part of our learning journey, we are recording the materials we have used w
 ### Concepts
 - [Modules](http://darrenderidder.github.io/talks/ModulePatterns/#/)
 - [Callback](https://github.com/maxogden/art-of-node#callbacks)
+- [HTTP Transaction](https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/)
+  - ☝🏻 Important! Especially if you're building Node.js API without frameworks.
+  
 ### Exercises
 - [NodeSchool](nodeschool.io)
   - Stuck? You can use this [Wiki](https://github.com/Rafase282/My-FreeCodeCamp-Code/wiki#nodejs-and-expressjs)
